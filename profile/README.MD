@@ -2,31 +2,3 @@
 
 [Website](https://phase.dev) |
 [Docs](https://docs.phase.dev)
-
----
-# TL;DR
-1. 🔒 Crypto - Encrypt / decrypt data in your web apps with just 2 lines of code
-2. 🔑 Key management - Easily create, deploy and maintain control of your keys
-3. 📋 Observability - Monitor key usage with logs
----
-# The problem
-1. [Data braches](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf) are a 'when' not a 'if' problem. [Encryption](https://owasp.org/Top10/A02_2021-Cryptographic_Failures) is an effective solution
-2. However, adding encryption to your app; encrypting existing data is difficult, complex and time consuming.
-3. Relying on automatic database / bucket encrypting is useless since the data is automatically decrypted when retrieved. A breach is a single [SQL injection](https://owasp.org/Top10/A02_2021-Cryptographic_Failures/#example-attack-scenarios) or a [IAM misconfiguration](https://github.com/nagwww/s3-leaks) away.
-4. Rolling your own crypto and with hard coded keys is a securty minefield.
-5. Solving all of this is outside the scope of developers and a distraction from shipping features.
-
-Example: [See the list of US companies in the last 24 months that have suffered a data breach of unsecured ‘protected health information’ affecting 500 or more individuals.](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf)
-
----
-# The solution
-1. [Open Source SDKs](https://docs.phase.dev/sdks) that let you encrypt / decrypt data with 2 lines of code.
-2. Seamlessly generate and deploy keys securely to all your apps.
-3. Decrypt and process data in memory only when you need to.
-4. Phase SDKs sit within your application, run on your own cloud and scale with it.
-5. Observe and manage key usage with the [Phase Console](https://docs.phase.dev/quickstart).
-6. No lock in. You own your keys.
-
----
-
-## [Ready to try?](https://docs.phase.dev)
