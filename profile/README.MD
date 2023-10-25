@@ -1,4 +1,4 @@
-*Phase abstracts the complexity of encryption and key management and makes it easy for developers to secure sensitive data in their applications.*
-
+*Open source, end-to-end encrypted platform for managing application secrets and environment variables.*
+![Phase](meta.png)
 [Website](https://phase.dev) |
 [Docs](https://docs.phase.dev)
